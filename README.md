@@ -1,7 +1,7 @@
 # PMAnalysis
 The analysis Particulate material in air
 
-1. Data cleaning
+1.Data cleaning
 
 (1) Classification of toxicity results on Zebrafish
 
