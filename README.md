@@ -11,7 +11,7 @@ The analysis Particulate material in air
 
 (1) Feature Selection approach
 
-    --Similitude matrix
+    --Simlarity matrix
     
     --ANOVA F values 
     
