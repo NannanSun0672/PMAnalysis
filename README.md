@@ -19,8 +19,7 @@ The analysis Particulate material in air
     --Reduce dimensions using t-SNE
     
 ## Models
-* linear regression
-* ANN 
+
 ## Evaluation
-* R2
+
 
