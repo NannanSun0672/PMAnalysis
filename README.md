@@ -1,15 +1,14 @@
 # PMAnalysis
 The analysis Particulate material in air
 
-1.Data cleaning
+## Data cleaning
 
-(1) Classification of toxicity results on Zebrafish
+* Classification of toxicity results on Zebrafish
+* Align toxicity and components 
 
-(2) Align toxicity and components 
+## Data analysis
 
-2.Data analysis
-
-(1) Feature Selection approach
+* Feature Selection approach
 
     --Simlarity matrix
     
@@ -19,5 +18,9 @@ The analysis Particulate material in air
     
     --Reduce dimensions using t-SNE
     
-3.Models
+## Models
+* linear regression
+* ANN 
+## Evaluation
+* R2
 
